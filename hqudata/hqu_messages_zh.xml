@@ -5,7 +5,7 @@
 <!--         Messages         -->
 <!-- ************************ -->
 
-  <data name="zh_project_title"><![CDATA[huaqiaouniversity]]></data>
+  <data name="zh_project_title"><![CDATA[华侨大学VR全景]]></data>
   <data name="zh_project_author_name"><![CDATA[灰灰无人机]]></data>
 
 
@@ -13,7 +13,7 @@
   <data name="zh_pano82_title"><![CDATA[hqu Panorama 20180716]]></data>
 
 
-	<data name="zh_spotmap84_tooltip"><![CDATA[hqu Panorama 20180716]]></data>
+	<data name="zh_spotmap89_tooltip"><![CDATA[hqu Panorama 20180716]]></data>
 
 
 
@@ -35,7 +35,7 @@
   <data name="zh_togglebutton4firsttooltip"><![CDATA[隐藏控制]]></data>
   <data name="zh_togglebutton4secondtooltip"><![CDATA[显示控制]]></data>
   <data name="zh_button1tooltip"><![CDATA[联系方式]]></data>
-  <data name="zh_button1onclick117292websiteViewer|websiteViewer|toggle_websitewebsite_url"><![CDATA[./huaqiaouniversitydata/xtras/vcard_hh.html]]></data>
+  <data name="zh_button1onclick117292websiteViewer|websiteViewer|toggle_websitewebsite_url"><![CDATA[./hqudata/xtras/vcard_hh.html]]></data>
   <data name="zh_button1onclick117292websiteViewer|websiteViewer|toggle_websitewebsite_title"><![CDATA[联系方式]]></data>
   <data name="zh_webvrbuttontooltip"><![CDATA[VR]]></data>
   <data name="zh_websiteViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
