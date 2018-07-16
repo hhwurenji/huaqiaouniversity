@@ -2,8 +2,8 @@
 <krpano>
   <!-- Global variables used by actions and plugins -->
   <krpano 
-        tour_soundson="true" 
-        tour_soundsvolume="100" 
+        tour_soundson="false" 
+        tour_soundsvolume="91" 
         tour_autotourenabled="false"
         tour_autorotateenabled="false"
         tour_controlmodemousetype="moveto"
