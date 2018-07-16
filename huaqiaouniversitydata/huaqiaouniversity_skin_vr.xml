@@ -314,7 +314,6 @@
     );
   </action>
   <action name="preloadSounds">
-    preloadsound("_2033924935-30456352652468026202_live_.mp3");
     preloadsound("pengjiahui-xiangjianhenwan_live_.mp3");
   </action>
 
